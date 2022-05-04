@@ -1,4 +1,4 @@
-두개뽑아서더하기/SumTest.java
- 두개뽑아서더하기.SumTest
 내적/DotProductTest.java
  내적.DotProductTest
+두개뽑아서더하기/SumTest.java
+ 두개뽑아서더하기.SumTest
