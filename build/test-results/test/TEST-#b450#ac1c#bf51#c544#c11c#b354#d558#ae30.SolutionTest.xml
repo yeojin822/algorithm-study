@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="두개뽑아서더하기.SolutionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-04T01:52:58" hostname="ip-10-1-4-93.ap-northeast-2.compute.internal" time="0.015">
-  <properties/>
-  <testcase name="test()" classname="두개뽑아서더하기.SolutionTest" time="0.015"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

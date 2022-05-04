@@ -5,7 +5,7 @@ package 두개뽑아서더하기;
 import java.util.Arrays;
 import java.util.HashSet;
 
-class Solution {
+class Sum {
     public int[] solution(int[] numbers) {
         int[] answer = {};
         Integer[] temp = {};
