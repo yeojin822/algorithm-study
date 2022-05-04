@@ -1,4 +1,0 @@
-두개뽑아서더하기/Sum.java
- 두개뽑아서더하기.Sum
-내적/DotProduct.java
- 내적.DotProduct
