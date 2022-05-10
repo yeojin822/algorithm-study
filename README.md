@@ -1,5 +1,5 @@
-### 📚 [프로그래머스](https://programmers.co.kr/) 코딩테스트 공부
-
+### 📚 [프로그래머스](https://programmers.co.kr/) 코딩테스트 공부 
+<a href="https://lunar-nickel-dbc.notion.site/CordingTest-5831ea078b0d4ec28719e0517de6b54f"><img src="https://img.shields.io/badge/CodingTest-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 * * *
 
  - 월간 코드 챌린지 시즌 1, 2, 3
