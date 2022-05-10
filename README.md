@@ -14,5 +14,5 @@
 
 | 문제풀이 | 완료날짜 |
 | --- | --- |
-| [부족한 금액 계산하기]() | - | 
+| [부족한 금액 계산하기](https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/Cal.java) | `05/11` | 
 | [최소직사각형]() | - |
