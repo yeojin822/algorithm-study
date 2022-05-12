@@ -22,6 +22,6 @@
 | 문제풀이 | 완료날짜 |
 | --- | --- |
 | [소수 만들기](https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Decimal.java) | `05/12` | 
-| [예산]() | `-` |
+| [예산](https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%98%88%EC%82%B0/Budget.java) | `05/12` |
 
 
