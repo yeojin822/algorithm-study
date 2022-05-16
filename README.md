@@ -30,7 +30,7 @@
 | --- | --- |
 | [폰켓몬](https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%8F%B0%EC%BC%93%EB%AA%AC/Phone.java) | `05/13` | 
 
-✔️ 찾아라 프로그래밍 마에스터
+✔️ 2019 카카오 개발자 겨울 인턴십
 
 | 문제풀이 | 완료날짜 |
 | --- | --- |
