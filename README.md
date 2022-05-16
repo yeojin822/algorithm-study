@@ -30,3 +30,8 @@
 | --- | --- |
 | [폰켓몬](https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%8F%B0%EC%BC%93%EB%AA%AC/Phone.java) | `05/13` | 
 
+✔️ 찾아라 프로그래밍 마에스터
+
+| 문제풀이 | 완료날짜 |
+| --- | --- |
+| [크레인 인형뽑기 게임](https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/Crane.java) | `05/14` | 
