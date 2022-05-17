@@ -3,14 +3,13 @@
 <a href="https://lunar-nickel-dbc.notion.site/CordingTest-5831ea078b0d4ec28719e0517de6b54f"><img src="https://img.shields.io/badge/CodingTest-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 * * *
 
-<br>
 <table>
-<td width="33%">
-<table>
+<td>
+<table align="center">
 <h4>🔆 월간 코드 챌린지 시즌 1</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0/Sum.java">
@@ -30,12 +29,12 @@
 </table>
 </td>
 
-<td width="33%" style="background-color: rgba(255, 255, 255, 0.03);">
-<table>
+<td style="background-color: rgba(255, 255, 255, 0.03);">
+<table align="center">
 <h4>🔆 월간 코드 챌린지 시즌 2</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9D%8C%EC%96%91%EB%8D%94%ED%95%98%EA%B8%B0/Add.java">
@@ -54,12 +53,12 @@
 </table>
 </td>
 
-<td width="33%">
-<table>
+<td>
+<table align="center">
 <h4>🔆 월간 코드 챌린지 시즌 3</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0/NumAdd.java">
@@ -79,14 +78,15 @@
 </td>
 </table>
 
-<br>
+* * *
+
 <table>
-<td width="33%" style="background-color: rgba(255, 255, 255, 0.03);">
-<table>
+<td style="background-color: rgba(255, 255, 255, 0.03);">
+<table align="center">
 <h4>️🔆 위클리 챌린지</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0/Cal.java">
@@ -101,12 +101,12 @@
 </table>
 </td>
 
-<td width="33%">
-<table>
+<td>
+<table align="center">
 <h4>🔆 Summer/Winter Coding(~2018)</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Decimal.java">
@@ -121,12 +121,12 @@
 </table>
 </td>
 
-<td width="33%" style="background-color: rgba(255, 255, 255, 0.03);">
-<table>
+<td style="background-color: rgba(255, 255, 255, 0.03);">
+<table align="center">
 <h4>🔆 찾아라 프로그래밍 마에스터</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%8F%B0%EC%BC%93%EB%AA%AC/Phone.java">
@@ -139,14 +139,15 @@
 </td>
 </table>
 
-<br>
+* * *
+
 <table>
-<td width="33%">
-<table>
+<td>
+<table align="center">
 <h4>🔆 2019 카카오 개발자 겨울 인턴십</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/Crane.java">크레인 인형뽑기 게임</a></td>
@@ -155,12 +156,12 @@
 </table>
 </td>
 
-<td width="33%" style="background-color: rgba(255, 255, 255, 0.03);">
-<table>
+<td style="background-color: rgba(255, 255, 255, 0.03);">
+<table align="center">
 <h4>🔆 2020 카카오 인턴십</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0/Keypad.java">
@@ -170,12 +171,12 @@
 </table>
 </td>
 
-<td width="33%">
-<table>
+<td>
+<table align="center">
 <h4>🔆 2021 카카오 채용연계형 인턴십</h4>
 <tr>
-<th width="80%">문제풀이</th>
-<th width="20%">완료날짜</th>
+<th>문제풀이</th>
+<th>완료날짜</th>
 </tr>
 <tr>
 <td><a href="">숫자 문자열과 영단어</a></td>
@@ -184,3 +185,5 @@
 </table>
 </td>
 </table>
+
+* * *
