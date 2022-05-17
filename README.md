@@ -29,7 +29,7 @@
 </table>
 </td>
 
-<td style="background-color: rgba(255, 255, 255, 0.03);">
+<td>
 <table align="center">
 <h4>🔆 월간 코드 챌린지 시즌 2</h4>
 <tr>
@@ -81,7 +81,7 @@
 * * *
 
 <table>
-<td style="background-color: rgba(255, 255, 255, 0.03);">
+<td>
 <table align="center">
 <h4>️🔆 위클리 챌린지</h4>
 <tr>
@@ -121,7 +121,7 @@
 </table>
 </td>
 
-<td style="background-color: rgba(255, 255, 255, 0.03);">
+<td>
 <table align="center">
 <h4>🔆 찾아라 프로그래밍 마에스터</h4>
 <tr>
@@ -156,7 +156,7 @@
 </table>
 </td>
 
-<td style="background-color: rgba(255, 255, 255, 0.03);">
+<td>
 <table align="center">
 <h4>🔆 2020 카카오 인턴십</h4>
 <tr>
