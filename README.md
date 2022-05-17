@@ -179,8 +179,8 @@
 <th>완료날짜</th>
 </tr>
 <tr>
-<td><a href="">숫자 문자열과 영단어</a></td>
-<td><code>00/00</code></td>
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4/NumAndString.java">숫자 문자열과 영단어</a></td>
+<td><code>05/17</code></td>
 </tr>
 </table>
 </td>
