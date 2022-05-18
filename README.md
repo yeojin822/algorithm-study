@@ -150,7 +150,8 @@
 <th>완료날짜</th>
 </tr>
 <tr>
-<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/Crane.java">크레인 인형뽑기 게임</a></td>
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/Crane.java">
+크레인 인형뽑기 게임</a></td>
 <td><code>05/14</code></td>
 </tr>
 </table>
@@ -179,11 +180,34 @@
 <th>완료날짜</th>
 </tr>
 <tr>
-<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4/NumAndString.java">숫자 문자열과 영단어</a></td>
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4/NumAndString.java">
+숫자 문자열과 영단어</a></td>
 <td><code>05/17</code></td>
 </tr>
 </table>
 </td>
 </table>
+
+* * *
+
+<table>
+<td>
+<table align="center">
+<h4>🔆 2018 KAKAO BLIND RECRUITMENT
+</h4>
+<tr>
+<th>문제풀이</th>
+<th>완료날짜</th>
+</tr>
+<tr>
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9D%BC%EC%B0%A8%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84/FirstMap.java">
+[1차] 비밀지도</a></td>
+<td><code>05/18</code></td>
+</tr>
+</table>
+</td>
+</table>
+
+
 
 * * *
