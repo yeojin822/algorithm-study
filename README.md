@@ -222,7 +222,7 @@
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%A4%ED%8C%A8%EC%9C%A8/Fail.java">
 실패율</a></td>
-<td><code>05/12</code></td>
+<td><code>05/20</code></td>
 </tr>
 <td>ㅤ</td>
 <td></td>
