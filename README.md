@@ -212,7 +212,7 @@
 </table>
 </td>
  
- <td>
+<td>
 <table align="center">
 <h4>🔆 2019 KAKAO BLIND RECRUITMENT</h4>
 <tr>
@@ -223,6 +223,23 @@
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%A4%ED%8C%A8%EC%9C%A8/Fail.java">
 실패율</a></td>
 <td><code>05/20</code></td>
+</tr>
+<td>ㅤ</td>
+<td></td>
+</table>
+</td>
+ 
+<td>
+<table align="center">
+<h4>🔆 2021 KAKAO BLIND RECRUITMENT</h4>
+<tr>
+<th>문제풀이</th>
+<th>완료날짜</th>
+</tr>
+<tr>
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C/newId.java">
+신규 아이디 추천</a></td>
+<td><code>05/22</code></td>
 </tr>
 <td>ㅤ</td>
 <td></td>
