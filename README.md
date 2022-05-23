@@ -1,12 +1,13 @@
-### 📚 [프로그래머스](https://programmers.co.kr/) 코딩테스트 공부
+### 📚 [프로그래머스](https://programmers.co.kr/) Level1 코딩테스트 공부
 
 <a href="https://lunar-nickel-dbc.notion.site/CordingTest-5831ea078b0d4ec28719e0517de6b54f"><img src="https://img.shields.io/badge/CodingTest-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 * * *
 
 <table>
+<tr>
 <td>
 <table align="center">
-<h4>🔆 월간 코드 챌린지 시즌 1</h4>
+ <h4 align="center"><del>월간 코드 챌린지 시즌 1</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -31,7 +32,7 @@
 
 <td>
 <table align="center">
-<h4>🔆 월간 코드 챌린지 시즌 2</h4>
+<h4 align="center"><del>월간 코드 챌린지 시즌 2</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -55,7 +56,7 @@
 
 <td>
 <table align="center">
-<h4>🔆 월간 코드 챌린지 시즌 3</h4>
+<h4 align="center"><del>월간 코드 챌린지 시즌 3</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -76,14 +77,12 @@
 </tr>
 </table>
 </td>
-</table>
-
-* * *
-
-<table>
+</tr>
+ 
+<tr>
 <td>
 <table align="center">
-<h4>️🔆 위클리 챌린지</h4>
+<h4 align="center"><del>위클리 챌린지</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -103,7 +102,7 @@
 
 <td>
 <table align="center">
-<h4>🔆 Summer/Winter Coding(~2018)</h4>
+<h4 align="center"><del>Summer/Winter Coding(~2018)</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -123,7 +122,7 @@
 
 <td>
 <table align="center">
-<h4>🔆 찾아라 프로그래밍 마에스터</h4>
+<h4 align="center"><del>찾아라 프로그래밍 마에스터</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -137,14 +136,12 @@
 <td></td>
 </table>
 </td>
-</table>
+</tr>
 
-* * *
-
-<table>
+<tr> 
 <td>
 <table align="center">
-<h4>🔆 2019 카카오 개발자 겨울 인턴십</h4>
+<h4 align="center"><del>2019 카카오 개발자 겨울 인턴십</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -159,7 +156,7 @@
 
 <td>
 <table align="center">
-<h4>🔆 2020 카카오 인턴십</h4>
+<h4 align="center"><del>2020 카카오 인턴십</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -174,7 +171,7 @@
 
 <td>
 <table align="center">
-<h4>🔆 2021 카카오 채용연계형 인턴십</h4>
+<h4 align="center"><del>2021 카카오 채용연계형 인턴십</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -186,15 +183,12 @@
 </tr>
 </table>
 </td>
-</table>
+</tr>
 
-* * *
-
-<table>
+<tr> 
 <td>
 <table align="center">
-<h4>🔆 2018 KAKAO BLIND RECRUITMENT
-</h4>
+<h4 align="center"><del>2018 KAKAO BLIND RECRUITMENT</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -214,7 +208,7 @@
  
 <td>
 <table align="center">
-<h4>🔆 2019 KAKAO BLIND RECRUITMENT</h4>
+<h4 align="center"><del>2019 KAKAO BLIND RECRUITMENT</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -231,7 +225,7 @@
  
 <td>
 <table align="center">
-<h4>🔆 2021 KAKAO BLIND RECRUITMENT</h4>
+<h4 align="center"><del>2021 KAKAO BLIND RECRUITMENT</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
@@ -245,8 +239,45 @@
 <td></td>
 </table>
 </td>
+</tr>
+ 
+ 
+<tr> 
+<td>
+<table align="center">
+<h4 align="center"><del>2021 Dev-Matching: 웹 백엔드 개발자(상반기)</del> ✅</h4>
+<tr>
+<th>문제풀이</th>
+<th>완료날짜</th>
+</tr>
+<tr>
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84/Lotto.java">
+로또의 최고 순위와 최저 순위</a></td>
+<td><code>05/23</code></td>
+</tr>
 </table>
+</td>
+ 
+<td>
+<table align="center">
+<h4 align="center">2022 KAKAO BLIND RECRUITMENT</h4>
+<tr>
+<th>문제풀이</th>
+<th>완료날짜</th>
+</tr>
+<tr>
+<td><a href="">
+신고 결과 받기</a></td>
+<td><code>00/00</code></td>
+</tr>
+<td>ㅤ</td>
+<td></td>
+</table>
+</td>
 
-
+</tr>
+ 
+ 
+</table>
 
 * * *
