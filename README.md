@@ -252,7 +252,7 @@
 </tr>
 <tr>
 <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84/Lotto.java">
-로또의 최고 순위와 최저 순위</a></td>
+로또의 최고 순위와 <br> 최저 순위</a></td>
 <td><code>05/23</code></td>
 </tr>
 </table>
@@ -260,21 +260,26 @@
  
 <td>
 <table align="center">
-<h4 align="center">2022 KAKAO BLIND RECRUITMENT</h4>
+<h4 align="center"><del>2022 KAKAO BLIND RECRUITMENT</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
 </tr>
 <tr>
-<td><a href="">
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/Result.java">
 신고 결과 받기</a></td>
-<td><code>00/00</code></td>
+<td><code>05/25</code></td>
 </tr>
 <td>ㅤ</td>
 <td></td>
 </table>
 </td>
 
+<td>
+<table align="center">
+<h3 align="center">🎊 Level1 END 🎉</h3>
+</table>
+</td>
 </tr>
  
  
