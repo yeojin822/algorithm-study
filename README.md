@@ -296,15 +296,15 @@
 <tr> 
 <td>
 <table align="center">
-<h4 align="center">코딩테스트 고득점 Kit - 정렬</h4>
+<h4 align="center"><del>코딩테스트 고득점 Kit - 정렬 </del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
 </tr>
 <tr>
-<td><a href="">
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/K%EB%B2%88%EC%A7%B8%EC%88%98/NumK.java">
 K번째수</a></td>
-<td><code>00/00</code></td>
+<td><code>05/27</code></td>
 </tr>
 <td>ㅤ</td>
 <td></td>
