@@ -338,7 +338,7 @@ K번째수</a></td>
 <tr>
 <td><a href="">
 체육복</a></td>
-<td><code>05/26</code></td>
+<td><code>00/00</code></td>
 </tr>
 <td>ㅤ</td>
 <td></td>
