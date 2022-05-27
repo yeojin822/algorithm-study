@@ -277,10 +277,20 @@
 
 <td>
 <table align="center">
-<h3 align="center">🎊 Level1 END 🎉</h3>
+<h4 align="center"><del>코딩테스트 고득점 Kit - 해시 </del> ✅</h4>
+<tr>
+<th>문제풀이</th>
+<th>완료날짜</th>
+</tr>
+<tr>
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98/Unfinished.java">
+완주하지 못한 선수</a></td>
+<td><code>05/26</code></td>
+</tr>
+<td>ㅤ</td>
+<td></td>
 </table>
 </td>
-</tr>
  
  
 </table>
