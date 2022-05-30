@@ -313,15 +313,15 @@ K번째수</a></td>
  
 <td>
 <table align="center">
-<h4 align="center">코딩테스트 고득점 Kit - 완전탐색</h4>
+<h4 align="center">><del>코딩테스트 고득점 Kit - 완전탐색</del> ✅</h4>
 <tr>
 <th>문제풀이</th>
 <th>완료날짜</th>
 </tr>
 <tr>
-<td><a href="">
+<td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Exam.java">
 모의고사</a></td>
-<td><code>00/00</code></td>
+<td><code>05/30</code></td>
 </tr>
 <td>ㅤ</td>
 <td></td>
@@ -338,7 +338,7 @@ K번째수</a></td>
 <tr>
 <td><a href="">
 체육복</a></td>
-<td><code>00/00</code></td>
+<td><code>05/31</code></td>
 </tr>
 <td>ㅤ</td>
 <td></td>
