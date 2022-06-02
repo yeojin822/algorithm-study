@@ -55,7 +55,7 @@ K번째수</a></td>
       </tr>
  <!-- line 6  v-->
       <tr>
-          <td rowspan="2"<del>월간 코드 챌린지 시즌 3</del> ✔️</td>
+          <td rowspan="2"><del>월간 코드 챌린지 시즌 3</del> ✔️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%97%86%EB%8A%94%EC%88%AB%EC%9E%90%EB%8D%94%ED%95%98%EA%B8%B0/NumAdd.java">
 없는 숫자 더하기</a></td>
          <td rowspan="5" align="center">연습 문제</td>
