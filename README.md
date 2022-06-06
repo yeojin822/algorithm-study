@@ -89,7 +89,7 @@ K번째수</a></td>
           <td rowspan="2"><del>Summer/Winter Coding(~2018)</del> ✔️</td>
          <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Decimal.java">
 소수 만들기</a></td>
-           <td><a href="#">
+           <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9/NumSum.java">
       두 정수 사이의 합</a></td>
       </tr>
 <!-- line 11  -->      
@@ -104,7 +104,7 @@ K번째수</a></td>
           <td><del>찾아라 프로그래밍 마에스터</del> ✔️</td>
          <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%8F%B0%EC%BC%93%EB%AA%AC/Phone.java">
 폰켓몬</a></td>
-           <td><a href="#">
+           <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98/CountPY.java">
       문자열 내 p와 y의 개수</a></td>
       </tr>
 <!-- line 13  -->      
