@@ -3,7 +3,6 @@
 <a href="https://lunar-nickel-dbc.notion.site/CordingTest-5831ea078b0d4ec28719e0517de6b54f"><img src="https://img.shields.io/badge/CodingTest-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 * * *
 
-
 <table>
      <tr>
       <td colspan="4" align="center"><h3>🐣 Level 1</h3></td>
@@ -67,7 +66,7 @@
          <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0/findOne.java">
 <del>나머지가 1이 되는 수 찾기</del></a></td>
        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EA%B0%80%EC%9A%B4%EB%8D%B0%EA%B8%80%EC%9E%90%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/MidLetter.java">
-      <del>가운데 글자 가져오기</del></a></td>>
+      <del>가운데 글자 가져오기</del></a></td>
       </tr>
  <!-- line 8 v -->     
       <tr>
@@ -173,5 +172,7 @@
      <del>신고 결과 받기</del></a></td>
       </tr>
 </table>
+
+
 
 * * * 
