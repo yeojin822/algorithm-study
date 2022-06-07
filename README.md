@@ -112,8 +112,8 @@
           <td>2019 카카오 개발자 겨울 인턴십 ✔️</td>
          <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/Crane.java">
 <del>크레인 인형뽑기 게임</del></a></td>
-           <td><a href="#">
-      문자열 내림차순으로 배치하기</a></td>
+           <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/StringReverse.java">
+      <del>문자열 내림차순으로 배치하기</del></a></td>
       </tr>
 <!-- line 14  -->      
       <tr>
