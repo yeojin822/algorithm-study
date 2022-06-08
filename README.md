@@ -76,23 +76,23 @@
     <tr>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/Rectangle.java">
         <del>최소직사각형</del></a></td>
-        <td><a href="#">
-        문자열 다루기 기본</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8/StringBasic.java">
+        <del>문자열 다루기 기본</del></a></td>
     </tr>
 <!-- line 10 v -->      
     <tr>
         <td rowspan="2">Summer/Winter Coding(~2018) ✔️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Decimal.java">
         <del>소수 만들기</del></a></td>
-        <td><a href="#">
-        서울에서 김서방 찾기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%EA%B9%80%EC%84%9C%EB%B0%A9%EC%B0%BE%EA%B8%B0/FindKim.java">
+        <del>서울에서 김서방 찾기</del></a></td>
     </tr>
 <!-- line 11  -->      
     <tr>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%98%88%EC%82%B0/Budget.java">
         <del>예산</del></a></td>
-        <td><a href="#">
-        소수 찾기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0/FindDecimal.java">
+        <del>소수 찾기</del></a></td>
     </tr>
 <!-- line 12  -->      
     <tr>
