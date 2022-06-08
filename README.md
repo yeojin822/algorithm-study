@@ -161,7 +161,7 @@
     <tr>
         <td>2021Dev-Matching:웹백엔드개발자(상반기)️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84/Lotto.java">
-        <del>로또의 최고 순위와 최저 순위</del></a></td>
+        <del>로또의 최고 순위와 <br/>최저 순위</del></a></td>
         <td><a href="#">
         정수 제곱근 판별</a></td>
     </tr>
