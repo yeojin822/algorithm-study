@@ -142,8 +142,8 @@
       <tr>
       <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9D%BC%EC%B0%A8%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/Dart.java">
 <del>[1차] 다트 게임</del></a></td>
-            <td><a href="#">
-     수박수박수박수박수박수?</a></td>
+            <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98/Subark.java">
+       <del>수박수박수박수박수박수?</del></a></td>
       </tr>
 <!-- line 18  -->      
       <tr>
