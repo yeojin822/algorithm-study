@@ -107,16 +107,16 @@
         <td>2019 카카오 개발자 겨울 인턴십️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84/Crane.java">
         <del>크레인 인형뽑기 게임</del></a></td>
-        <td><a href="#">
-        문자열을 정수로 바꾸기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%EC%A0%95%EC%88%98%EB%A1%9C%EB%B0%94%EA%BE%B8%EA%B8%B0/StringToInt.java">
+        <del>문자열을 정수로 바꾸기</del></a></td>
     </tr>
 <!-- line 14  -->      
     <tr>
         <td>2020 카카오 인턴십️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0/Keypad.java">
         <del>키패드 누르기</del></a></td>
-        <td><a href="#">
-        시저 암호</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8/Pwd.java">
+        <del>시저 암호</del></a></td>
     </tr>
 <!-- line 15  -->      
     <tr>
