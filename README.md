@@ -16,7 +16,7 @@
         <td rowspan="3">월간 코드 챌린지 시즌 1 ✔️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0/Sum.java">
         <del>두개 뽑아서 더하기</del></a></td>
-        <td rowspan="30" align="center">연습 문제 </td>
+        <td rowspan="30" align="center">연습 문제 ✔️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9D%B4%EA%B3%B5%EC%9D%BC%EC%9C%A1/TwoThousandSixteen.java">
         <del>2016</del></a></td>
     </tr>
