@@ -123,39 +123,39 @@
         <td>2021 카카오 채용연계형 인턴십️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4/NumAndString.java">
         <del>숫자 문자열과 영단어</del></a></td>
-        <td><a href="#">
-        약수의 합</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9/DivisorSum.java">
+        <del>약수의 합</del></a></td>
     </tr>
 <!-- line 16  -->      
     <tr>
         <td rowspan="2">2018 KAKAO BLIND RECRUITMENT️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9D%BC%EC%B0%A8%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84/FirstMap.java">
         <del>[1차] 비밀지도</del></a></td>
-        <td><a href="#">
-        이상한 문자 만들기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9D%B4%EC%83%81%ED%95%9C%EB%AC%B8%EC%9E%90%EB%A7%8C%EB%93%A4%EA%B8%B0/MakeString.java">
+        <del>이상한 문자 만들기</del></a></td>
     </tr>
 <!-- line 17  -->      
     <tr>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9D%BC%EC%B0%A8%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84/Dart.java">
         <del>[1차] 다트 게임</del></a></td>
-        <td><a href="#">
-        자릿수 더하기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0/PlaceSum.java">
+        <del>자릿수 더하기</del></a></td>
     </tr>
 <!-- line 18  -->      
     <tr>
         <td>2019 KAKAO BLIND RECRUITMENT️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%A4%ED%8C%A8%EC%9C%A8/Fail.java">
         <del>실패율</del></a></td>
-        <td><a href="#">
-        자연수 뒤집어 배열로 만들기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0/IntToArray.java">
+        <del>자연수 뒤집어 배열로 만들기</del></a></td>
     </tr>
  <!-- line 19  -->     
     <tr>
         <td>2021 KAKAO BLIND RECRUITMENT️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C/newId.java">
         <del>신규 아이디 추천</del></a></td>
-        <td><a href="#">
-        정수 내림차순으로 배치하기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%A0%95%EC%88%98%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0/IntReverse.java">
+        <del>정수 내림차순으로 배치하기</del></a></td>
     </tr>
 <!-- line 20  -->      
     <tr>
