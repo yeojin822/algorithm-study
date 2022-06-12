@@ -200,8 +200,8 @@
         <td>완전탐색️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC/Exam.java">
         <del>모의고사</del></a></td>
-        <td><a href="#">
-        평균 구하기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0/Average.java">
+        <del>평균 구하기</del></a></td>
     </tr>
 <!-- line 26  --> 
     <tr>
