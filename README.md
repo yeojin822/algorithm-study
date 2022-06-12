@@ -162,38 +162,38 @@
         <td>2021Dev-Matching:웹백엔드개발자(상반기)️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84/Lotto.java">
         <del>로또의 최고 순위와 <br/>최저 순위</del></a></td>
-        <td><a href="#">
-        정수 제곱근 판별</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%A0%95%EC%88%98%EC%A0%9C%EA%B3%B1%EA%B7%BC%ED%8C%90%EB%B3%84/Square.java">
+            <del>정수 제곱근 판별</del></a></td>
     </tr>
 <!-- line 21  -->      
     <tr>
         <td>2022 KAKAO BLIND RECRUITMENT️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0/Result.java">
         <del>신고 결과 받기</del></a></td>
-        <td><a href="#">
-        제일 작은 수 제거하기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%A0%9C%EC%9D%BC%EC%9E%91%EC%9D%80%EC%88%98%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0/RemoveNum.java">
+        <del>제일 작은 수 제거하기</del></a></td>
     </tr>
 <!-- line 22  --> 
     <tr> 
         <td colspan="2" align="center">코딩테스트 고득점 Kit</td>
-        <td><a href="#">
-        짝수와 홀수</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98/EvenOdd.java">
+        <del>짝수와 홀수</del></a></td>
     </tr>
 <!-- line 23  --> 
     <tr>
         <td>해시 ️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98/Unfinished.java">
         <del>완주하지 못한 선수</del></a></td> 
-        <td><a href="#">
-        최대공약수와 최소공배수</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/CommonNum.java">
+        <del>최대공약수와 최소공배수</del></a></td>
     </tr>
 <!-- line 24  --> 
     <tr>
         <td>정렬 ️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/K%EB%B2%88%EC%A7%B8%EC%88%98/NumK.java">
         <del>K번째수</del></a></td>
-        <td><a href="#">
-        콜라츠 추측</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1/Collatz.java">
+        <del>콜라츠 추측</del></a></td>
     </tr>
 <!-- line 25  --> 
     <tr>
