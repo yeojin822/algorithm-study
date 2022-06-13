@@ -8,8 +8,8 @@
         <td colspan="4" align="center"><h3>🐣 Level 1</h3></td>
     </tr>
     <tr> 
-        <td colspan="2" align="center">문제 모음</td>
-        <td colspan="2" align="center">연습 문제</td>
+        <td colspan="2" align="center">문제 모음 ✔️</td>
+        <td colspan="2" align="center">연습 문제 ✔️</td>
     </tr>
 <!--  line 1 v-->
     <tr>
@@ -175,7 +175,7 @@
     </tr>
 <!-- line 22  --> 
     <tr> 
-        <td colspan="2" align="center">코딩테스트 고득점 Kit</td>
+        <td colspan="2" align="center">코딩테스트 고득점 Kit ✔️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98/EvenOdd.java">
         <del>짝수와 홀수</del></a></td>
     </tr>
@@ -208,36 +208,36 @@
         <td>탐욕법(Greedy)️</td>
         <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%83%90%EC%9A%95%EB%B2%95/Greedy.java">
         <del>체육복</del></a></td>
-        <td><a href="#">
-        하샤드 수</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98/Harshad.java">
+        <del>하샤드 수</del></a></td>
     </tr>
 <!-- line 27  --> 
     <tr>
         <td>️</td>
         <td></td>
-        <td><a href="#">
-        핸드폰 번호 가리기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0/HiddenPhoneNum.java">
+        <del>핸드폰 번호 가리기</del></a></td>
     </tr>
 <!-- line 28  --> 
     <tr>
         <td>️</td>
         <td></td>
-        <td><a href="#">
-        행렬의 덧셈</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%ED%96%89%EB%A0%AC%EC%9D%98%EB%8D%A7%EC%85%88/Matrix.java">
+        <del>행렬의 덧셈</del></a></td>
     </tr>
 <!-- line 29  --> 
     <tr>
         <td>️</td>
         <td></td>
-        <td><a href="#">
-        x만큼 간격이 있는 n개의 숫자</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/x%EB%A7%8C%ED%81%BC%EA%B0%84%EA%B2%A9%EC%9D%B4%EC%9E%88%EB%8A%94n%EA%B0%9C%EC%9D%98%EC%88%AB%EC%9E%90/XNNum.java">
+        <del>x만큼 간격이 있는 n개의 숫자</del></a></td>
     </tr>
 <!-- line 30  --> 
     <tr>
         <td>️</td>
         <td></td>
-        <td><a href="#">
-        직사각형 별찍기</a></td>
+        <td><a href="https://github.com/yeojin822/algorithm-study/blob/main/src/main/java/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0/Star.java">
+        <del>직사각형 별찍기</del></a></td>
     </tr>
 
 </table>
