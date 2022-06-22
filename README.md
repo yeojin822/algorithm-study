@@ -1,6 +1,6 @@
 ### 📚 [프로그래머스](https://programmers.co.kr/) 코딩테스트
 
-<a href="https://yeojinlee.notion.site/CordingTest-5831ea078b0d4ec28719e0517de6b54f"><img src="https://img.shields.io/badge/CodingTest-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://yeojinlee.notion.site/CodingTest-5831ea078b0d4ec28719e0517de6b54f"><img src="https://img.shields.io/badge/CodingTest-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 * * *
 
 <table>
